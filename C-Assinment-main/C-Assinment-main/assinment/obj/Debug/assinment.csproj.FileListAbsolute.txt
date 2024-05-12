@@ -1,0 +1,12 @@
+C:\Users\User\Documents\assinment\assinment\bin\Debug\assinment.exe.config
+C:\Users\User\Documents\assinment\assinment\bin\Debug\assinment.exe
+C:\Users\User\Documents\assinment\assinment\bin\Debug\assinment.pdb
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.csproj.AssemblyReference.cache
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.Form1.resources
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.loginPage.resources
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.Properties.Resources.resources
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.signUP.resources
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.csproj.GenerateResource.cache
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.exe
+C:\Users\User\Documents\assinment\assinment\obj\Debug\assinment.pdb
